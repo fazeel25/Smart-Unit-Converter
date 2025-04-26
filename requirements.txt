@@ -1,0 +1,20 @@
+streamlit
+numpy
+pandas
+To run this app, you'll need the following:
+
+Python 3.x
+
+Streamlit library (for running the app)
+
+Other dependencies: None (Streamlit handles everything)
+
+Install Requirements
+Install Streamlit:
+
+#pip install streamlit
+Run the app:
+
+After installing the required dependencies, simply run the following command to start the app:
+
+#streamlit run app.py
