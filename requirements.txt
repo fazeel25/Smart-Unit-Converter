@@ -1,9 +1,6 @@
 streamlit
 numpy
 pandas
-To run this app, you'll need the following:
-
-Python 3.x
 
 Streamlit library (for running the app)
 
